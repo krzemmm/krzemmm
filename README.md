@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**krzemmm/krzemmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Kacper Krzemionka**, and I'm a final-semester student of Econometrics and Computer Science at the Poznań University of Economics and Business.
+I currently work as a **Record to Report Support Specialist**, where I focus on preparing and processing financial data.
+I'm passionate about business process automation and leveraging artificial intelligence for data analysis.
+I value efficiency, automation, and continuous development of my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Excel
+* Python
+* Power Query & Power BI
+* Power Automate
+* SQL
+* SAP
+
+## 🔗 Find me here:
+
+* 💼 LinkedIn: [linkedin.com/in/kacper-krzemionka](https://www.linkedin.com/in/kacper-krzemionka/)
+* ✉️ Email: [krzemionkakacper@gmail.com](mailto:krzemionkakacper@gmail.com)
+
+---
