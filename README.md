@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Kacper Krzemionka**, and I am a graduate of Econometrics and Computer Science from the Poznań University of Economics and Business.
+My name is **Kacper Krzemionka**, and I am a graduate of Computer Science and Econometrics from the Poznań University of Economics.
 I'm passionate about business process automation and leveraging artificial intelligence for data analysis.
 I value efficiency, automation, and continuous development of my skills.
 
